@@ -1,0 +1,17 @@
+body { 
+    margin: 10vh; 
+    width: 50%; 
+    min-height: 0vh; 
+    background-image: linear-gradient( 
+        180deg, 
+        #2f6ed3 5%, 
+        #5095e4 20%, 
+        #5095e4 60%, 
+        #2f6ed3 95%
+        );
+}
+        
+p { 
+    font-family: EuclidBold;
+    font-size: 20px;
+}
